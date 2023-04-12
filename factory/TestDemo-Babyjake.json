@@ -1,0 +1,9 @@
+{
+	"name": "TestDemo-Babyjake",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98eafde8-f69c-45dc-8195-6e15f5773814",
+		"tenantId": "49da4612-2fa3-43a6-9b0f-33adba570bbc"
+	}
+}
